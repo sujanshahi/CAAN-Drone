@@ -70,7 +70,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 📞 Contact
 
-For inquiries or collaboration, reach out to:
+For inquiries or collaboration, feel free to reach out to:
 
 	•	Sujan Shahi: LinkedIn | Email
 
